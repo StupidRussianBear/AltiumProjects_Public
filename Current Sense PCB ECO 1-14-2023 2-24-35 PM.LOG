@@ -1,0 +1,16 @@
+Added Component: Designator=F1(FIDU_100mil)
+Added Component: Designator=F2(FIDU_100mil)
+Added Component: Designator=F3(FIDU_100mil)
+Added Component: Designator=F4(FIDU_100mil)
+Added Component: Designator=H1(4-40 Hole)
+Added Component: Designator=H2(4-40 Hole)
+Added Component: Designator=H3(4-40 Hole)
+Added Component: Designator=H4(4-40 Hole)
+Added Member To Class: ClassName=Current Sense Member=Component F1 Fiducial 200mil
+Added Member To Class: ClassName=Current Sense Member=Component F2 Fiducial 200mil
+Added Member To Class: ClassName=Current Sense Member=Component F3 Fiducial 200mil
+Added Member To Class: ClassName=Current Sense Member=Component F4 Fiducial 200mil
+Added Member To Class: ClassName=Current Sense Member=Component H1 4-40 Hole
+Added Member To Class: ClassName=Current Sense Member=Component H2 4-40 Hole
+Added Member To Class: ClassName=Current Sense Member=Component H3 4-40 Hole
+Added Member To Class: ClassName=Current Sense Member=Component H4 4-40 Hole
